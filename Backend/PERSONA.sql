@@ -1,0 +1,5 @@
+REM INSERTING into PERSONA
+Insert into PERSONA (ID,NOMBRE,TELEFONO) values (104,'Roberto','2462251434');
+Insert into PERSONA (ID,NOMBRE,TELEFONO) values (106,'Alonso','2462551024');
+Insert into PERSONA (ID,NOMBRE,TELEFONO) values (107,'Juan','2468781211');
+Insert into PERSONA (ID,NOMBRE,TELEFONO) values (122,'Carlos','24629841235');

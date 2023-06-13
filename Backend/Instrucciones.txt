@@ -1,0 +1,7 @@
+1.- Cargar tabla Persona en Sql Developer y tener credenciales a las siguientes
+username: SYSTEM
+password: 12345
+
+2. Ejecutar SpringMaven-0.0.1-SNAPSHOT.JAR
+
+3. Cargar ProyectoAngular en VS y compilar con ng serve
